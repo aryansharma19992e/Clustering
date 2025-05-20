@@ -63,9 +63,9 @@ The clustering results were visualized using 2D projections post-PCA to demonstr
 
 ## 📄 PDF Report
 
-A full breakdown of results and metrics is available in the [PDF report](https://github.com/AnMaster15/clustering/blob/main/Results_Clustering%20(1)%202%20(1).pdf).
+A full breakdown of results and metrics is available in the [PDF report](https://github.com/aryansharma19992e/Clustering/blob/main/Results_Clustering%20(1)%202%20(1).pdf).
 
 ## 👤 Author
 
-**Anchit Mehra**  
-3co18
+**Aryan Sharma**
+3CS2
